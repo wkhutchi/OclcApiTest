@@ -18,4 +18,4 @@ The current results of SaveOclc is a 406 Not Acceptable.
 Title is "Invalid 'Content-Type' header."
 Detail is "A request with an invalid 'Content-Type' header was attempted: application/marcxml+xml; charset=utf-8".
 
-My question is what do I need to change to SaveOclc to return the same results as Postman and to not have an invalid 'Content-Type' header.
+My question is what do I need to change in SaveOclc to return the same results as Postman and to not have an invalid 'Content-Type' header.
