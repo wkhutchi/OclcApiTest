@@ -132,7 +132,7 @@ namespace OclcApiTest
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"SaveOclc \"{Config.OclcSvcUrl}\" failed: {ex.Message}");
+                Console.WriteLine($"GetOclc \"{Config.OclcSvcUrl}\" failed: {ex.Message}");
             }
 
             return false;
